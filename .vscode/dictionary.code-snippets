@@ -1,0 +1,28 @@
+{
+	// Project workspace snippets. Edit or add snippets below.
+	"Nested Python dict": {
+		"scope": "python",
+		"prefix": "ndict",
+		"body": [
+			"{",
+			"  '${1:key}': {",
+			"    '${2:child_key}': ${3:child_value},",
+			"    '${4:child_key2}': ${5:child_value2}",
+			"  },",
+			"  '${6:another_key}': ${7:another_value}",
+			"}$0"
+		],
+		"description": "Insert a nested Python dict with placeholders"
+	},
+	
+	"Loop For": {
+		"scope": "python",
+		"prefix": "forloop",
+		"body": [
+			"for ${1:item} in ${2:iterable}:",
+			"    ${3:# code block}",
+			"$0"
+		],
+		"description": "Insert a for loop structure"
+	}
+}

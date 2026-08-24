@@ -1,0 +1,4 @@
+conda activate namaenvironment
+
+Pilih Interpreter di VS Code: Tekan Ctrl + Shift + P, pilih Python: Select Interpreter, lalu klik yang ada tulisan nama projek. 
+Ini memastikan VS Code Anda membaca semua pustaka (packages) yang baru saja kita instal tadi.
