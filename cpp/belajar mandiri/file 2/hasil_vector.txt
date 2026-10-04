@@ -1,0 +1,3 @@
+Daftar nilai: -1 -3 88 100 -22 78 
+Jumlah data: 6
+Rata-rata: 40
